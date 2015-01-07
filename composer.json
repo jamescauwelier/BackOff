@@ -1,5 +1,5 @@
 {
-    "name": "jamescauwelier/BackOff",
+    "name": "jamescauwelier/back-off",
     "description": "Exponential Backoff Strategies",
     "autoload": {
         "psr-4": {
