@@ -1,0 +1,9 @@
+{
+    "name": "jamescauwelier/BackOff",
+    "description": "Exponential Backoff Strategies",
+    "autoload": {
+        "psr-4": {
+            "Cauwelier\\": ["src/Cauwelier", "test/Cauwelier"]
+        }
+    }
+}
